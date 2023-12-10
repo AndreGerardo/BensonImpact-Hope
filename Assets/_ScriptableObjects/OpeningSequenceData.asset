@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a44fb6668ccc76c4a92151c69e9d35bd, type: 3}
+  m_Name: OpeningSequenceData
+  m_EditorClassIdentifier: 
+  Data:
+  - ActorName: '-'
+    Type: 1
+    Dialogue: This is a story about a girl who sells matches for her family
+  - ActorName: '-'
+    Type: 0
+    Dialogue: "In the middle of the freezing winter, the girl stands trying to get
+      people to buy her last match. It\u2019s her only wish before she goes home."
+  - ActorName: '-'
+    Type: 1
+    Dialogue: However, the storm took a toll on her tiny body, she fell unconscious
+      with her last match still laying on her hand. Her breath got really rough,
+      and slowly, she blacked out
+  - ActorName: '-'
+    Type: 1
+    Dialogue: In the depth of the darkness, some familiar voice called her
+  - ActorName: Voice
+    Type: 1
+    Dialogue: Little girl...
+  - ActorName: Voice
+    Type: 1
+    Dialogue: As long as the kindle still blazing, there is still a chance
+  - ActorName: Voice
+    Type: 1
+    Dialogue: Fight, endure all the hardships and meet me at the end
+  - ActorName: Voice
+    Type: 1
+    Dialogue: "I\u2019ll take the match off your hand for you"

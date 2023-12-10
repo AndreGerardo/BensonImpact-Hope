@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a44fb6668ccc76c4a92151c69e9d35bd, type: 3}
+  m_Name: EndingSequenceData
+  m_EditorClassIdentifier: 
+  Data:
+  - ActorName: '-'
+    Type: 1
+    Dialogue: After she fought through everything, she saw a sliver of light
+  - ActorName: '-'
+    Type: 0
+    Dialogue: 'With her match blinked on her hand, she rushed herself over to the
+      light '
+  - ActorName: '-'
+    Type: 1
+    Dialogue: There were no one there, only sun rays showering her skin and grasses
+      tickling her feet
+  - ActorName: '-'
+    Type: 1
+    Dialogue: The flicker on her hand started to dim, but she felt another flame
+      started blazing in her heart

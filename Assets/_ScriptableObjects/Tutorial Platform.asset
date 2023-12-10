@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28a8398a985cbb1489d40f24043d2c3c, type: 3}
+  m_Name: Tutorial Platform
+  m_EditorClassIdentifier: 
+  Data:
+  - Content: Platform can be interacted by stepping on them
+    Picture: {fileID: 21300000, guid: 5caafd819dba0944998457846c7d1c45, type: 3}
+  - Content: "To finish the puzzle, you will need to light up all platform with the
+      same light color (appear after they\u2019re stepped). Remember, each platform
+      can only be stepped once or all the light you\u2019ve enkindled will be turned
+      off!"
+    Picture: {fileID: 21300000, guid: 7e3c123f0908e7f48858b07c3d16a3fe, type: 3}
+  - Content: Each platform has a light timer. A platform will be back off around
+      8 seconds after it has been lighted up. So, be careful!
+    Picture: {fileID: 21300000, guid: 7b5b591e1f2841e42b092986bdc6459f, type: 3}

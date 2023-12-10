@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/MainMenu.unity
+    guid: 734c2eff21fffbc4783b69843889267f
+  - enabled: 1
+    path: Assets/_Scenes/OpeningScene.unity
+    guid: b893dc98b1f03da499a549d77a15fe65
+  - enabled: 1
+    path: Assets/_Scenes/Level/Level1.unity
+    guid: bd2a424287bcaef48aa8abec70e5c0f1
+  - enabled: 1
+    path: Assets/_Scenes/Level/Level2.unity
+    guid: bbd2be3336553994cb235ffbde60f9df
+  - enabled: 1
+    path: Assets/_Scenes/Level/Level3.unity
+    guid: e83bc70e693147b4f913bc4d9c498d9e
+  - enabled: 1
+    path: Assets/_Scenes/Level/Level4.unity
+    guid: 79cecabbdd11e22458ad7cdaea16bc5d
+  - enabled: 1
+    path: Assets/_Scenes/Level/Level5.unity
+    guid: 9e2f2b2c80e448348a2da23cfbac25b2
+  - enabled: 1
+    path: Assets/_Scenes/Level/Level6.unity
+    guid: 8aad73861b2846c40a121c361d54683a
+  - enabled: 1
+    path: Assets/_Scenes/EndingScene.unity
+    guid: 23d908417af34f84b97a93fd9e188152
+  - enabled: 1
+    path: Assets/_Scenes/HopeScene.unity
+    guid: fd8c0e94f9773ea45afc7344880ca947
+  m_configObjects: {}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a44fb6668ccc76c4a92151c69e9d35bd, type: 3}
+  m_Name: DialogueData
+  m_EditorClassIdentifier: 
+  Data:
+  - ActorName: Furina
+    Type: 1
+    Dialogue: I'm Focalor welcoming you to the nation of Hydro
+  - ActorName: Tatang Sudrajax
+    Type: 0
+    Dialogue: dude who the fuck are you
+  - ActorName: Furina
+    Type: 1
+    Dialogue: Don't be rude my citizen
